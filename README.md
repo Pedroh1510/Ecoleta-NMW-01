@@ -21,7 +21,7 @@ Para rodar este projeto é necessario ter:
 git clone https://github.com/Pedroh1510/Ecoleta-NMW-01.git
 
 #Va para o diretorio do projeto
-cd ecoleta
+cd Ecoleta-NMW-01
 ```
 
 ### Back-end
